@@ -55,7 +55,6 @@ ubah ke
 |M. Anas Nasrulloh | 14117028 | https://github.com/AnasNasrull/14117028-PWL |
 |Aan Sanova | 14116175 | https://github.com/Papzaan/Praktikum1 |
 |Jefri Manurung | 14117107 | https://github.com/jefrymanurung23/TugasPWL |
-|N E Felix | 14117127 | https://github.com/edofelix/PABW-14117127 |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
