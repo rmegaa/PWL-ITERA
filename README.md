@@ -57,6 +57,7 @@ ubah ke
 |Moch Dwiky Fajar Kasih | 14116173 | https://github.com/dwikykasih/PWL-ITERA |
 |N Edwardo Felix | 14117127 | https://github.com/edofelix/PWL-ITERA-14117127 |
 |Vicko Pratama Ibrahim  | 14116043 | https://github.com/vickokakuse21/14116043-PWL |
+|Muhammad Oktri Saputra | 14116114 | https://github.com/OktriSaputra/14116114-PWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
