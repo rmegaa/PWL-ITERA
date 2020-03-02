@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Merriweather:400,600&display=swap');
+
+nav ul{
+    display: flex;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    padding: 1rem;
+    box-shadow: 13px 12px 23px #eee;
+}
+
+nav li{
+    flex: 1;
+}
+
+nav li a{
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color: #000;
+}
+
+section{
+    margin-left: 25%;
+    word-break: break-word;
+    padding-top: 2rem;
+}
+
+section h1{
+    font-family: 'Montserrat';
+    font-size: 32px;
+}
+
+section h3{
+    font-family: 'Merriweather';
+}
+
+section p{
+    font-family: 'Merriweather';
+}
